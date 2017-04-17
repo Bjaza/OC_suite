@@ -6,4 +6,4 @@ It is for now primarily aimed at production design but may expand in the future.
 It is based on a bash script that installs GIMP, Krita, FreeCAD and Blender. 
 This bash script also installs themes to unify the look of the programs. 
 
-Will be adding GNU/Linux install script in the near future.
+This is still a work in progress and im still working out the bugs, so run and install at your own risk.
