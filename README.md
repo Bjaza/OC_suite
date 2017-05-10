@@ -1,5 +1,5 @@
 # OC_suite
-Creative suite compiled with FLOSS
+Creative suite compiled with FOSS
 
 This is a creative suite compiled out of GIMP, Krita, FreeCAD and Blender. 
 It is for now primarily aimed at production design but may expand in the future.
